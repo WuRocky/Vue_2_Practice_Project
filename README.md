@@ -1,6 +1,6 @@
 # sell
 
-> 美團外賣
+> 麥當勞外賣專案
 
 ## Build Setup
 
